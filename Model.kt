@@ -1,4 +1,4 @@
-
+package dev.fritz2.examples.tictactoe
 
 import dev.fritz2.components.validation.ComponentValidationMessage
 
